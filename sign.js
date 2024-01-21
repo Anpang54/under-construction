@@ -1,3 +1,7 @@
+
+// GitHub: Anpang54/under-construction
+// MIT license
+
 document.head.innerHTML += `
     <style>
         @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
