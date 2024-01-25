@@ -1,6 +1,9 @@
 
-// GitHub: Anpang54/under-construction
-// MIT license
+/*
+    Anpang54/under-construction
+    Version 1.0.0
+    MIT license
+*/
 
 document.head.innerHTML += `
     <style>
