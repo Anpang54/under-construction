@@ -4,11 +4,11 @@
 Just puts a giant "under construction" sign on your website, and shades out and blocks all the other content.\
 And there's no way to close it.
 
-<img src="https://anpang.fun/under-construction-examples/scratch.png" width="300px" /> <img src="https://anpang.fun/under-construction-examples/vote-for-a-country.png" width="300px" /> <img src="https://anpang.fun/under-construction-examples/cornmoji.png" width="300px" />
+<img src="https://raw.githubusercontent.com/anpang54/under-construction/refs/heads/main/images/vote-for-a-country.png" width="300px" /> <img src="https://raw.githubusercontent.com/anpang54/under-construction/refs/heads/main/images/scratch.png" width="300px" />
 
 ## Usage
 Include the file on jsDelivr:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Anpang54/under-construction@main/sign.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/anpang54/under-construction@main/sign.js"></script>
 ```
 and you're done.
