@@ -12,3 +12,6 @@ Include the file on jsDelivr:
 <script src="https://cdn.jsdelivr.net/gh/anpang54/under-construction@main/sign.js"></script>
 ```
 and you're done.
+
+## Changelog
+See [**here**](https://github.com/anpang54/under-construction/blob/main/CHANGELOG.md)
