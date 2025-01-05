@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/stable-1.1-f65) ![](https://img.shields.io/github/license/Anpang54/under-construction) ![](https://img.shields.io/badge/dependencies-none-3d2) ![](https://img.shields.io/jsdelivr/gh/hw/Anpang54/under-construction)
+![](https://img.shields.io/badge/stable-1.1.0-f65) ![](https://img.shields.io/github/license/Anpang54/under-construction) ![](https://img.shields.io/badge/dependencies-none-3d2) ![](https://img.shields.io/jsdelivr/gh/hw/Anpang54/under-construction)
 
 # under-construction
 Just puts a giant "under construction" sign on your website, and shades out and blocks all the other content.\
