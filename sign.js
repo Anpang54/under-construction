@@ -1,7 +1,7 @@
 
 /*
-    Anpang54/under-construction
-    Version 1.0.0
+    anpang54/under-construction
+    Version 1.1.0
     MIT license
 */
 
@@ -13,14 +13,14 @@ document.head.innerHTML += `
             position: fixed;
             top: 50%;
             left: 50%;
-            transform: translate(-50%, -50%) rotate(30deg);
+            transform: translate(-50%, -50%) rotate(15deg);
             background-color: #fc0;
             font-size: 40px;
             font-family: "Roboto Mono";
             color: black;
             padding: 50px;
             border: 10px solid #f70;
-            z-index: 102;
+            z-index: 10020;
         }
         #under-construction-blocker{
             width: 100vw;
@@ -28,8 +28,8 @@ document.head.innerHTML += `
             position: fixed;
             top: 0;
             left: 0;
-            background-color: rgb(0 0 0 / 25%);
-            z-index: 101;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 10010;
         }
     </style>
 `;
