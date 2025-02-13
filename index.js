@@ -1,7 +1,7 @@
 
 /*
     anpang54/under-construction
-    Version 1.1
+    Version 1.2
     MIT license
 */
 
@@ -13,13 +13,13 @@ document.head.innerHTML += `
             position: fixed;
             top: 50%;
             left: 50%;
-            transform: translate(-50%, -50%) rotate(15deg);
+            transform: translate(-50%, -50%) rotate(12.5deg);
             background-color: #fc0;
-            font-size: 40px;
+            font-size: 2.5em;
             font-family: "Roboto Mono";
-            color: black;
-            padding: 50px;
-            border: 10px solid #f70;
+            color: #000;
+            padding: 1.25em;
+            border: 0.2em solid #f70;
             z-index: 10020;
         }
         #under-construction-blocker{
