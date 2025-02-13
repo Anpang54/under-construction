@@ -10,6 +10,6 @@ And there's no way to close it.
 ## Usage
 Include the file on jsDelivr:
 ```html
-<script src="https://cdn.jsdelivr.net/gh/anpang54/under-construction@main/sign.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/anpang54/under-construction@main/src/index.js"></script>
 ```
 and you're done.
